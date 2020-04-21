@@ -1,4 +1,4 @@
-# :pushpin: Projects
+## :pushpin: Projects
 
 
 Hello everyone out there!
